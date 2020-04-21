@@ -1,0 +1,86 @@
+header {
+  font-family: 'Abril Fatface', cursive;
+  display:flex;
+  color: #222;
+  margin-top: -10px; ?
+}
+
+section  {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+font-family: 'Merriweather', serif;
+font-size: 15px;
+}
+
+blockquote  {
+  font-family: 'Abril Fatface', cursive;
+  background: grey;
+  color: white;
+  position: relative;
+  height: 160px; 
+}
+
+img {
+  max-width: 750px;
+  height: auto;
+  top: 0px; ?
+ }
+
+main {
+ margin: 80px;
+}
+
+.kepenszoveg {
+  position: absolute;
+  top: 130px;
+  left: 80px;
+  font-size: 50px;
+  
+}
+
+p {
+  position: absolute;
+  top: 80px;
+  left: 80px;
+  font-size: 25px;
+}
+
+ul  {
+  list-style: square;
+}
+
+h1  {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: 1200;
+}
+
+h3 {
+  font-style: italic;
+  font-size: 12px;
+  
+}
+
+.bqszoveg {
+  font-size: 30px;
+  position: relative;
+  top: 50px;
+  left: 20px;
+  }
+
+.idezo {
+  position: absolute;
+  top: -15px;
+  font-size: 99px;
+  position: absolute;
+  left: 0px;
+  font-family: 'Passion One', cursive;
+}
+
+hr  {
+   border: 2px solid black;
+}
